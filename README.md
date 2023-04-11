@@ -1,2 +1,6 @@
 # Password-Generator
 Python script that generates random secure password
+outputs secure random password that consists of upper and lower case characters, numbers and special characters.
+
+Could use tkinter to make it so user has a gui including a copy to clipboard button...
+Could add library to store passwords and have user save in description as what password is for...
